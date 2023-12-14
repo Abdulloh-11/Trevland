@@ -1,0 +1,89 @@
+.footer {
+    background-color: aliceblue;
+    padding: 70px 7px;
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+
+}
+
+.ussas {
+    padding-top: 40px;
+    padding-bottom: 10px;
+
+}
+
+.logotipi {
+    padding-top: 20px;
+}
+
+.contact p {
+    font-weight: 700;
+
+}
+
+.list_footer ul li {
+    color: #000;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    /* 24px */
+    letter-spacing: 0.96px;
+    list-style: none;
+}
+
+.email {}
+
+
+
+.email h1 {}
+
+.email_box {
+    display: flex;
+    gap: 35px;
+    padding-top: 42px;
+}
+
+.email_box input {
+    
+    
+    flex-shrink: 0;
+    color: #000;
+    padding: 10px 0px 10px 20px;
+
+    
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+ 
+    letter-spacing: 0.96px;
+
+}
+
+.email_box button{
+    border-radius: 5px;
+background: #C9453B;
+border: none;
+padding: 10px 32px;
+
+    
+}
+
+
+
+.btn4{
+
+    color: #FFF;
+
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+letter-spacing: 0.96px;
+    
+}
+
